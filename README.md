@@ -1,2 +1,0 @@
-# blog-actualidad
-ver noticias 
